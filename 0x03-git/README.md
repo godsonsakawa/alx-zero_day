@@ -1,3 +1,9 @@
+#bash
+
+This directory contains three files uploaded for the following tasks:
+* **1. Coding.fury.road**↴
+* **2. Collaboration is the base of a company.
+
 ## Contents
 * `bash`: A directory containing the files `alx`, `school` and `98`.
 * `c`: A directory containing the file `c_is_fun.c`.
