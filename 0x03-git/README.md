@@ -1,4 +1,4 @@
-#bash
+## bash
 
 This directory contains three files uploaded for the following tasks:
 * **1. Coding.fury.road**↴
